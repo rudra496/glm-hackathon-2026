@@ -1,6 +1,6 @@
 # Python AI Starter Kit
 
-A minimal Python starter for z.ai-powered social-good projects.
+A minimal Python starter for Z.ai-powered social-good projects.
 
 ## Files
 - `main.py` - basic prompt-to-response flow

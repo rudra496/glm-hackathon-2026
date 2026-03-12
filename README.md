@@ -1,148 +1,250 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20for%20Social%20Good%20Hackathon-SUST-6f42c1?style=for-the-badge" alt="Hackathon Banner" />
+  <img src="https://img.shields.io/badge/AI%20for%20Social%20Good%20Hackathon-SUST%202026-6f42c1?style=for-the-badge" alt="AI for Social Good Hackathon – SUST 2026" />
 </p>
 
-<h1 align="center">AI for Social Good Hackathon – SUST</h1>
-<p align="center"><strong>A professional, zero-cost, beginner-friendly AI hackathon hub</strong></p>
+<h1 align="center">AI for Social Good Hackathon – SUST 2026</h1>
+<p align="center"><em>A one-day, beginner-friendly AI hackathon for all students at Shahjalal University of Science and Technology</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Organizer-Rudra%20Sarker-0A66C2" alt="Organizer" />
+  <img src="https://img.shields.io/badge/Organizer-RoboSUST%20Club-0A66C2" alt="Organizer" />
   <img src="https://img.shields.io/badge/University-SUST-success" alt="University" />
-  <img src="https://img.shields.io/badge/Department-CSE-informational" alt="Department" />
-  <img src="https://img.shields.io/badge/Sponsor-z.ai-orange" alt="Sponsor" />
-  <img src="https://img.shields.io/badge/Budget-Zero%20Cost-brightgreen" alt="Budget" />
+  <img src="https://img.shields.io/badge/Open%20to-All%20Departments-blueviolet" alt="All Departments" />
+  <img src="https://img.shields.io/badge/Support-Z.ai-orange" alt="Z.ai" />
   <img src="https://img.shields.io/badge/Duration-1%20Day-blue" alt="Duration" />
+  <img src="https://img.shields.io/badge/Prize%20Pool-BDT%203000-brightgreen" alt="Prize Pool" />
 </p>
 
 ---
 
-## 🚀 Event Overview
-**AI for Social Good Hackathon – SUST** is a one-day hackathon for **25–30 CSE students** at **Shahjalal University of Science and Technology (SUST)**.
+## 🚀 About the Event
 
-The mission is to help students build real AI solutions for social impact using **z.ai tools and APIs** in a practical, hands-on format.
+**AI for Social Good Hackathon – SUST 2026** is a one-day, in-person hackathon organized by **RoboSUST Club** at **Shahjalal University of Science and Technology (SUST)**. Open to students from **all departments**, this event challenges participants to build practical AI-powered solutions that create real social impact using free and accessible tools.
+
+The event is supported by **Z.ai**, helping participants access cutting-edge AI capabilities at zero cost.
+
+---
 
 ## 🎯 Theme
+
 **Build AI solutions for social good.**
 
-Suggested tracks:
-- Education support
-- Healthcare support
-- Accessibility and inclusion
-- Environment and sustainability
-- Campus life and public service
+### Suggested Tracks
+| Track | Focus Area |
+|---|---|
+| 🎓 Education | Learning tools, student support, access to knowledge |
+| 🏥 Healthcare | Health awareness, patient support, accessibility |
+| ♿ Inclusion | Tools for differently-abled users, language barriers |
+| 🌿 Environment | Sustainability, climate awareness, conservation |
+| 🏫 Campus Life | SUST-specific solutions, campus services, community |
+
+---
 
 ## ✅ Eligibility
-- SUST students (CSE-focused, open to others if seats remain)
-- Beginner to intermediate level welcome
-- Must follow [code-of-conduct.md](./code-of-conduct.md)
+
+- **Open to all currently enrolled students at SUST** — CSE, SWE, and all other departments are equally welcome.
+- Beginner and intermediate levels are both welcome. No prior AI experience required.
+- Participants must follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+---
 
 ## 👥 Team Size
-- Preferred: **2–4 members**
-- Solo allowed only with organizer approval
 
-## 🗓️ Timeline
-Core timeline is documented in [schedule.md](./schedule.md).
+- **Preferred:** 2–4 members
+- Solo participation is allowed with organizer approval.
+- One participant may be part of only one team.
 
-Quick snapshot:
-- Opening & onboarding
-- Build sprint
-- Submission window
-- Demo + judging
-- Awards & certificate distribution
+---
+
+## 🗓️ Event Details
+
+| Detail | Info |
+|---|---|
+| 📅 Date | **TBD** |
+| ⏰ Time | **TBD** |
+| 📍 Venue | **TBD – Shahjalal University of Science and Technology** |
+| 📝 Registration | **TBD** – link will be announced |
+| ⏱ Duration | 1 Day |
+
+> Date, time, and venue details will be announced via official channels. Watch this repository and RoboSUST Club pages for updates.
+
+---
+
+## 🏆 Prizes
+
+| Rank | Prize |
+|---|---|
+| 🥇 1st Place | **BDT 1,500** |
+| 🥈 2nd Place | **BDT 1,000** |
+| 🥉 3rd Place | **BDT 500** |
+
+- All participants who complete and submit a project receive a **digital certificate of participation**.
+- Top teams receive **certificates of achievement**.
+
+---
+
+## 📅 Day Schedule (Indicative)
+
+| Time | Activity |
+|---|---|
+| 08:30 – 09:00 | Registration & check-in |
+| 09:00 – 09:30 | Opening ceremony & welcome |
+| 09:30 – 10:15 | Z.ai tools introduction + Q&A |
+| 10:15 – 10:45 | Team finalization & idea freeze |
+| 10:45 – 13:00 | Build Sprint – Session 1 |
+| 13:00 – 14:00 | Lunch & networking break |
+| 14:00 – 16:00 | Build Sprint – Session 2 |
+| 16:00 – 16:30 | Submission window |
+| 16:30 – 17:30 | Team demos & judging |
+| 17:30 – 18:00 | Awards, certificates & closing |
+
+---
 
 ## 📜 Rules
-Read full policy in [rules.md](./rules.md). Highlights:
-- Build during event time
-- Meaningful z.ai usage is required
-- Respect ethics, originality, and attribution
 
-## 📦 Submission Guidelines
-See [submission.md](./submission.md) and [participants/team-submissions.md](./participants/team-submissions.md).
+Read the full rules in [`docs/RULES.md`](./docs/RULES.md). Key highlights:
 
-Teams submit:
-1. Repository link
-2. Problem + solution summary
-3. Demo link
-4. Team details
+- All core development must happen on event day.
+- Every project must meaningfully use Z.ai tools or APIs.
+- Prior research and setup are permitted; pre-built finished projects are not.
+- Respect ethics, originality, and proper attribution.
+- Violations of rules or code of conduct may result in disqualification.
 
-## 🏆 Judging Criteria
-Full rubric in [judging.md](./judging.md) and scoring format in [judging/judge-evaluation-sheet.md](./judging/judge-evaluation-sheet.md).
+---
 
-## 📚 Resources
-Start from [resources.md](./resources.md), then use:
-- `starter-kits/python-ai-starter`
-- `starter-kits/web-ai-starter`
-- `examples/ai-chatbot`
-- `examples/ai-agent`
+## 📦 How to Submit
 
-## 🌐 Modern Landing Website (with 3D-style animations)
-Yes—you **should create a GitHub Pages website** for this hackathon. It improves visibility, professionalism, and onboarding.
+Each team must submit the following before the deadline:
 
-A ready-to-use landing site is included in [`website/`](./website/README.md).
+1. **Team name and member list**
+2. **Public GitHub repository link** with working code
+3. **Problem statement** (max 150 words)
+4. **Solution summary** (max 200 words)
+5. **Demo link** (video or live URL, 2–5 minutes)
+6. **Z.ai usage explanation**
 
-### Quick deploy on GitHub Pages
-1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Set source to `Deploy from branch`.
-4. Select branch: `main` (or your default), folder: `/website`.
-5. Save and wait for deployment.
+Submission details are in [`docs/SUBMISSION.md`](./docs/SUBMISSION.md).
 
-## 🧭 Repository Structure
+---
+
+## ⚖️ Judging
+
+Projects are evaluated across five dimensions:
+
+| Criterion | Weight |
+|---|---:|
+| Social Impact & Relevance | 25% |
+| Z.ai Integration Quality | 25% |
+| Technical Execution | 20% |
+| User Experience & Clarity | 15% |
+| Demo & Communication | 15% |
+
+Full rubric: [`docs/JUDGING_RUBRIC.md`](./docs/JUDGING_RUBRIC.md)
+
+---
+
+## 📚 Resources & Starter Kits
+
+| Resource | Description |
+|---|---|
+| [`starter-kits/python-ai-starter/`](./starter-kits/python-ai-starter/) | Python starter with Z.ai API integration |
+| [`starter-kits/web-ai-starter/`](./starter-kits/web-ai-starter/) | HTML/JS web starter with AI chat |
+| [`examples/ai-chatbot/`](./examples/ai-chatbot/) | Example AI chatbot project |
+| [`examples/ai-agent/`](./examples/ai-agent/) | Example AI agent project |
+| [`docs/RESOURCES.md`](./docs/RESOURCES.md) | Curated free tools & learning links |
+
+---
+
+## 🤝 Organizer & Support
+
+| Role | Details |
+|---|---|
+| **Organizer** | Rudra Sarker |
+| **Club** | RoboSUST Club |
+| **University** | Shahjalal University of Science and Technology (SUST) |
+| **Supported by** | [Z.ai](https://z.ai) |
+
+---
+
+## 🌐 Website (GitHub Pages)
+
+This repository includes a live hackathon website hosted free via **GitHub Pages**.
+
+### Enable GitHub Pages (free)
+1. Go to your repository **Settings → Pages**.
+2. Under **Source**, select **Deploy from a branch**.
+3. Choose branch: `main`, folder: `/docs`.
+4. Click **Save**.
+5. Your site will be live at `https://<your-username>.github.io/glm-hackathon-2026/`.
+
+The website files are in the [`docs/`](./docs/) folder.
+
+---
+
+## 🗂️ Repository Structure
+
 ```text
 .
-├── README.md
-├── rules.md
-├── schedule.md
-├── resources.md
-├── submission.md
-├── judging.md
-├── code-of-conduct.md
-├── faq.md
-├── CONTRIBUTING.md
+├── README.md                   ← You are here
+├── LICENSE                     ← MIT License
+├── CODE_OF_CONDUCT.md          ← Community standards
+├── CONTRIBUTING.md             ← Guide for organizer volunteers
+├── docs/
+│   ├── index.html              ← GitHub Pages website (root)
+│   ├── style.css               ← Website styles
+│   ├── app.js                  ← Website interactivity
+│   ├── RULES.md                ← Full participation rules
+│   ├── FAQ.md                  ← Frequently asked questions
+│   ├── JUDGING_RUBRIC.md       ← Scoring criteria and rubric
+│   ├── ORGANIZER_CHECKLIST.md  ← Pre-event checklist for organizers
+│   ├── SUBMISSION.md           ← Submission guidelines
+│   ├── SCHEDULE.md             ← Detailed event schedule
+│   └── RESOURCES.md            ← Tools, APIs, and learning links
 ├── participants/
-│   └── team-submissions.md
+│   └── team-submissions.md     ← Team submission tracker
 ├── starter-kits/
-│   ├── python-ai-starter/
-│   └── web-ai-starter/
+│   ├── python-ai-starter/      ← Python + Z.ai starter kit
+│   └── web-ai-starter/         ← Web (HTML/JS) starter kit
 ├── examples/
-│   ├── ai-chatbot/
-│   └── ai-agent/
-├── certificates/
-│   └── templates/
+│   ├── ai-chatbot/             ← Sample chatbot project
+│   └── ai-agent/               ← Sample AI agent project
 ├── judging/
 │   └── judge-evaluation-sheet.md
+├── certificates/
+│   └── templates/              ← Certificate templates
 ├── outreach/
 │   ├── hackathon-poster-text.md
 │   ├── linkedin-announcement.md
 │   └── registration-form-template.md
-├── website/
-│   ├── index.html
-│   ├── style.css
-│   ├── app.js
-│   └── README.md
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   └── pull_request_template.md
-└── scripts/
-    └── validate.sh
+├── scripts/
+│   └── validate.sh             ← Repo validation helper
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    └── pull_request_template.md
 ```
 
-## 👨‍💼 Organizer Information
-- **Organizer:** Rudra Sarker
-- **University:** Shahjalal University of Science and Technology (SUST)
-- **Department:** CSE
-- **Sponsor:** z.ai
-- **Budget:** Zero Cost
-
-## 🤝 Contribution Guide
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before contributing.
+---
 
 ## ❓ FAQ
-See [faq.md](./faq.md) for common participant and organizer questions.
+
+See [`docs/FAQ.md`](./docs/FAQ.md) for answers to common questions from participants and organizers.
 
 ---
-### First steps for participants
-1. Read [rules.md](./rules.md)
-2. Read [resources.md](./resources.md)
-3. Pick a starter kit
-4. Submit via [submission.md](./submission.md)
+
+## 🤲 Contributing
+
+Organizers and volunteers: see [`CONTRIBUTING.md`](./CONTRIBUTING.md) for how to contribute to this repository.
+
+---
+
+## 📬 Contact & Registration
+
+- **Registration link:** TBD – will be shared before the event
+- **Contact:** Reach out via RoboSUST Club official channels
+- **Email:** TBD
+
+---
+
+<p align="center">
+  <strong>Built with ❤️ by RoboSUST Club · Shahjalal University of Science and Technology</strong><br/>
+  <em>Supported by <a href="https://z.ai">Z.ai</a></em>
+</p>
