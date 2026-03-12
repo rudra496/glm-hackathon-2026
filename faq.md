@@ -1,22 +1,36 @@
 # FAQ
 
-## Who can join?
-SUST students, mainly from CSE. Beginners are welcome.
+## Participants
 
-## Do I need prior AI experience?
-No. Starter kits and guidance are provided.
+### Who can join?
+SUST students (primarily CSE), with beginner-friendly support.
 
-## Can I participate solo?
+### Do I need prior AI experience?
+No. Starter kits and onboarding are provided.
+
+### Can I participate solo?
 Only with organizer approval.
 
-## Do we need to pay any fee?
+### Is there any registration fee?
 No. This is a zero-cost hackathon.
 
-## Can we use external libraries?
-Yes, with proper attribution.
+### Is using z.ai mandatory?
+Yes. Your project must show meaningful z.ai integration.
 
-## Is using z.ai mandatory?
-Yes, meaningful integration is required.
+### Can we use external libraries or templates?
+Yes, with proper attribution and original problem-solving.
 
-## How do we submit?
-Follow [submission.md](./submission.md) and post final details in `participants/team-submissions.md`.
+### How do we submit?
+Follow [submission.md](./submission.md) and add your final project to `participants/team-submissions.md`.
+
+## Organizers & Repository
+
+### Should we create a GitHub website or keep only README?
+Recommended: **Create the GitHub Pages website** included in `website/` while keeping README as the canonical documentation. This gives you both discoverability and operational clarity.
+
+### Why keep both README + website?
+- README = operational source of truth for participants and judges
+- Website = public-facing promotion and onboarding
+
+### Can this repo be reused for future hackathons?
+Yes. Update event-specific values (title, date, sponsor, tracks, and judging rubric weights).

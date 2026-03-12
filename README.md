@@ -1,84 +1,91 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20for%20Social%20Good%20Hackathon-SUST-blueviolet?style=for-the-badge" alt="Hackathon Banner" />
+  <img src="https://img.shields.io/badge/AI%20for%20Social%20Good%20Hackathon-SUST-6f42c1?style=for-the-badge" alt="Hackathon Banner" />
 </p>
 
 <h1 align="center">AI for Social Good Hackathon – SUST</h1>
-<p align="center"><strong>1-Day Zero-Cost AI Build Sprint for CSE Students</strong></p>
+<p align="center"><strong>A professional, zero-cost, beginner-friendly AI hackathon hub</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Organizer-Rudra%20Sarker-0A66C2" alt="Organizer" />
   <img src="https://img.shields.io/badge/University-SUST-success" alt="University" />
+  <img src="https://img.shields.io/badge/Department-CSE-informational" alt="Department" />
   <img src="https://img.shields.io/badge/Sponsor-z.ai-orange" alt="Sponsor" />
   <img src="https://img.shields.io/badge/Budget-Zero%20Cost-brightgreen" alt="Budget" />
+  <img src="https://img.shields.io/badge/Duration-1%20Day-blue" alt="Duration" />
 </p>
 
 ---
 
-## 📌 Event Overview
-**AI for Social Good Hackathon – SUST** is a beginner-friendly, 1-day AI hackathon designed for **25–30 CSE students** at **Shahjalal University of Science and Technology (SUST)**.
+## 🚀 Event Overview
+**AI for Social Good Hackathon – SUST** is a one-day hackathon for **25–30 CSE students** at **Shahjalal University of Science and Technology (SUST)**.
 
-The goal is to help students learn practical AI development through hands-on building with **z.ai tools and APIs**, while solving real social-impact problems.
+The mission is to help students build real AI solutions for social impact using **z.ai tools and APIs** in a practical, hands-on format.
 
 ## 🎯 Theme
-**"Build AI solutions for social good."**
+**Build AI solutions for social good.**
 
-Suggested focus areas:
-- Education access
+Suggested tracks:
+- Education support
 - Healthcare support
-- Environmental monitoring
-- Campus utility tools
 - Accessibility and inclusion
+- Environment and sustainability
+- Campus life and public service
 
 ## ✅ Eligibility
-- Current SUST students (CSE prioritized)
-- Beginner to intermediate developers are welcome
-- Participants must follow the [Code of Conduct](./code-of-conduct.md)
+- SUST students (CSE-focused, open to others if seats remain)
+- Beginner to intermediate level welcome
+- Must follow [code-of-conduct.md](./code-of-conduct.md)
 
 ## 👥 Team Size
-- **2–4 students per team**
-- Solo participation allowed only with organizer approval
+- Preferred: **2–4 members**
+- Solo allowed only with organizer approval
 
-## 🗓️ Timeline (1 Day)
-- **08:30 – 09:00**: Registration & check-in
-- **09:00 – 10:00**: Opening + API onboarding
-- **10:00 – 16:00**: Build session
-- **16:00 – 17:00**: Final submission + demos
-- **17:00 – 18:00**: Judging + closing ceremony
+## 🗓️ Timeline
+Core timeline is documented in [schedule.md](./schedule.md).
 
-Detailed agenda: [schedule.md](./schedule.md)
+Quick snapshot:
+- Opening & onboarding
+- Build sprint
+- Submission window
+- Demo + judging
+- Awards & certificate distribution
 
-## 📜 Hackathon Rules
-- Build during the hackathon day (pre-existing boilerplate is allowed)
-- Use z.ai in a meaningful way
-- Keep code public in GitHub (unless prior exception)
-- No plagiarism, hate speech, harmful or illegal projects
-
-Full rules: [rules.md](./rules.md)
+## 📜 Rules
+Read full policy in [rules.md](./rules.md). Highlights:
+- Build during event time
+- Meaningful z.ai usage is required
+- Respect ethics, originality, and attribution
 
 ## 📦 Submission Guidelines
-Each team must submit:
-1. GitHub repository link
-2. Short problem statement and solution summary
-3. Demo video or live demo
-4. Team member details
+See [submission.md](./submission.md) and [participants/team-submissions.md](./participants/team-submissions.md).
 
-See full instructions: [submission.md](./submission.md)
+Teams submit:
+1. Repository link
+2. Problem + solution summary
+3. Demo link
+4. Team details
 
 ## 🏆 Judging Criteria
-- Impact & problem relevance
-- AI implementation quality
-- Technical execution
-- UX & clarity
-- Presentation/demo quality
-
-Full rubric: [judging.md](./judging.md)
+Full rubric in [judging.md](./judging.md) and scoring format in [judging/judge-evaluation-sheet.md](./judging/judge-evaluation-sheet.md).
 
 ## 📚 Resources
-- z.ai onboarding material
-- Beginner project starter kits
-- Example projects and prompt templates
+Start from [resources.md](./resources.md), then use:
+- `starter-kits/python-ai-starter`
+- `starter-kits/web-ai-starter`
+- `examples/ai-chatbot`
+- `examples/ai-agent`
 
-Start here: [resources.md](./resources.md)
+## 🌐 Modern Landing Website (with 3D-style animations)
+Yes—you **should create a GitHub Pages website** for this hackathon. It improves visibility, professionalism, and onboarding.
+
+A ready-to-use landing site is included in [`website/`](./website/README.md).
+
+### Quick deploy on GitHub Pages
+1. Push this repository to GitHub.
+2. Go to **Settings → Pages**.
+3. Set source to `Deploy from branch`.
+4. Select branch: `main` (or your default), folder: `/website`.
+5. Save and wait for deployment.
 
 ## 🧭 Repository Structure
 ```text
@@ -102,24 +109,40 @@ Start here: [resources.md](./resources.md)
 │   └── ai-agent/
 ├── certificates/
 │   └── templates/
-└── outreach/
-    ├── hackathon-poster-text.md
-    ├── linkedin-announcement.md
-    └── registration-form-template.md
+├── judging/
+│   └── judge-evaluation-sheet.md
+├── outreach/
+│   ├── hackathon-poster-text.md
+│   ├── linkedin-announcement.md
+│   └── registration-form-template.md
+├── website/
+│   ├── index.html
+│   ├── style.css
+│   ├── app.js
+│   └── README.md
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── pull_request_template.md
+└── scripts/
+    └── validate.sh
 ```
 
 ## 👨‍💼 Organizer Information
-- **Organizer:** Rudra Sarker  
-- **University:** Shahjalal University of Science and Technology (SUST)  
-- **Department:** CSE  
-- **Sponsor:** z.ai  
-- **Budget:** Zero Cost  
+- **Organizer:** Rudra Sarker
+- **University:** Shahjalal University of Science and Technology (SUST)
+- **Department:** CSE
+- **Sponsor:** z.ai
+- **Budget:** Zero Cost
 
-## 🤝 Contributing
-Want to improve docs, starter kits, or learning resources? Please read [CONTRIBUTING.md](./CONTRIBUTING.md).
+## 🤝 Contribution Guide
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before contributing.
+
+## ❓ FAQ
+See [faq.md](./faq.md) for common participant and organizer questions.
 
 ---
-If you are a participant, begin with:
-1. [rules.md](./rules.md)
-2. [resources.md](./resources.md)
-3. [submission.md](./submission.md)
+### First steps for participants
+1. Read [rules.md](./rules.md)
+2. Read [resources.md](./resources.md)
+3. Pick a starter kit
+4. Submit via [submission.md](./submission.md)

@@ -1,20 +1,24 @@
 # Contributing Guidelines
 
-Thank you for improving this hackathon hub.
+Thanks for helping improve this hackathon hub.
 
-## How to Contribute
-1. Fork the repo
+## Contribution Workflow
+1. Fork the repository
 2. Create a branch (`feature/your-change`)
-3. Make focused, beginner-friendly improvements
-4. Submit a pull request with clear description
+3. Make focused updates
+4. Run validation (`./scripts/validate.sh`)
+5. Open a pull request
 
-## Contribution Areas
-- Documentation clarity
-- New beginner examples
-- Better starter-kit setup scripts
-- Accessibility and inclusion improvements
+## Recommended Contribution Areas
+- Documentation clarity and grammar
+- Starter kit reliability and setup improvements
+- Example project depth and reproducibility
+- Judging/operations templates
+- Website visual polish and accessibility
 
 ## Standards
-- Keep content concise and practical
+- Keep changes beginner-friendly
+- Prefer free and open tools
+- Keep content concise but complete
 - Avoid unnecessary complexity
-- Ensure instructions run on zero-cost/free tools
+- Add screenshots for visual updates
