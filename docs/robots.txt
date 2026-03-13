@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rudra496.github.io/glm-hackathon-2026/sitemap.xml
