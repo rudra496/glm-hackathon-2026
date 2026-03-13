@@ -1,13 +1,35 @@
-# Winner Certificate Template
+# Certificate of Achievement – Template
+
+---
 
 **Certificate of Achievement**
 
-This certificate is proudly presented to **{{team_or_participant_name}}** for securing **{{position}}** in the **AI for Social Good Hackathon – SUST**.
+This is to certify that
 
-The award recognizes outstanding innovation, technical execution, and social impact using AI.
+**[Participant Name]**
 
-**Date:** {{event_date}}  
-**Organizer:** Rudra Sarker  
-**Sponsor:** z.ai
+from **[Department]**, Shahjalal University of Science and Technology (SUST),
+has achieved **[1st / 2nd / 3rd] Place** in the
 
-Signature: ____________________
+**AI for Social Good Hackathon – SUST 2026**
+
+as a member of team **[Team Name]**
+for the project: **[Project Title]**
+
+Prize Awarded: **BDT [1,500 / 1,000 / 500]**
+
+Organized by **RoboSUST Club** · Supported by **Z.ai**
+
+**Date of Event:** TBD
+**Venue:** Shahjalal University of Science and Technology (SUST)
+
+---
+
+_Organizer Signature_
+
+**Rudra Sarker**
+Lead Organizer, RoboSUST Club · SUST
+
+---
+
+*This certificate was issued by the AI for Social Good Hackathon – SUST 2026 organizing team.*

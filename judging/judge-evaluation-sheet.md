@@ -5,7 +5,7 @@
 | Criterion | Description | Max |
 |---|---|---:|
 | Social Impact & Relevance | Clarity and importance of problem solved | 25 |
-| AI Usage (z.ai) | Quality and depth of z.ai integration | 25 |
+| AI Usage (Z.ai) | Quality and depth of Z.ai integration | 25 |
 | Technical Execution | Correctness, architecture, feasibility | 20 |
 | UX & Design Clarity | Ease of use, workflow, interface clarity | 15 |
 | Demo & Communication | Clarity of presentation and storytelling | 15 |

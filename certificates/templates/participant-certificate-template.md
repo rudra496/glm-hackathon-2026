@@ -1,10 +1,32 @@
-# Participant Certificate Template
+# Certificate of Participation – Template
+
+---
 
 **Certificate of Participation**
 
-This is to certify that **{{participant_name}}** from **{{department_university}}** successfully participated in the **AI for Social Good Hackathon – SUST** organized by **Rudra Sarker** with support from **z.ai**.
+This is to certify that
 
-**Date:** {{event_date}}  
+**[Participant Name]**
+
+from **[Department]**, Shahjalal University of Science and Technology (SUST),
+has successfully participated in the
+
+**AI for Social Good Hackathon – SUST 2026**
+
+as a member of team **[Team Name]**.
+
+Organized by **RoboSUST Club** · Supported by **Z.ai**
+
+**Date of Event:** TBD
 **Venue:** Shahjalal University of Science and Technology (SUST)
 
-Signature: ____________________
+---
+
+_Organizer Signature_
+
+**Rudra Sarker**
+Lead Organizer, RoboSUST Club · SUST
+
+---
+
+*This certificate was issued by the AI for Social Good Hackathon – SUST 2026 organizing team.*

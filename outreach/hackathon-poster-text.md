@@ -1,27 +1,57 @@
-# Hackathon Poster Text
+# Hackathon Poster – Text Content
 
-## AI for Social Good Hackathon – SUST
-**Build AI solutions that make real social impact**
+**AI for Social Good Hackathon – SUST 2026**
 
-- 📍 Venue: Shahjalal University of Science and Technology (SUST)
-- 🏫 Department: CSE
-- 👥 Participants: 25–30 students
-- ⏱ Duration: 1 Day
-- 💸 Cost: Zero
-- 🤝 Sponsor: z.ai
+---
 
-### Who can join?
-SUST students (beginner-friendly).
+## Headline
+**Build AI Solutions for Social Good**
 
-### Team size
-2–4 members (limited solo slots).
+## Subtitle
+A one-day hackathon for all SUST students · Organized by RoboSUST Club · Supported by Z.ai
 
-### What you'll do
-- Learn z.ai tools/API
-- Build an AI project for social good
-- Present a live demo to judges
+---
 
-### Bring
-Laptop, charger, student ID, and team spirit.
+## Key Details
 
-**Organized by:** Rudra Sarker
+- 📅 **Date:** TBD
+- ⏰ **Time:** 08:30 – 18:00
+- 📍 **Venue:** TBD – Shahjalal University of Science and Technology (SUST)
+- 👥 **Open to:** All SUST students (all departments welcome)
+- 💸 **Entry:** Completely FREE
+- 🏆 **Prize Pool:** BDT 3,000 total (1st: 1,500 · 2nd: 1,000 · 3rd: 500)
+
+---
+
+## What You'll Do
+- Learn and use Z.ai tools & APIs
+- Form a team and build an AI solution for social impact
+- Demo your project to judges
+- Win cash prizes and earn certificates
+
+---
+
+## Tracks
+Education · Healthcare · Inclusion · Environment · Campus Life
+
+---
+
+## Team Size
+2–4 members (limited solo slots available)
+
+---
+
+## Register
+**Registration Link:** TBD – watch official channels for updates
+
+---
+
+## Organizer
+**Rudra Sarker · RoboSUST Club**
+Shahjalal University of Science and Technology (SUST)
+
+**Supported by [Z.ai](https://z.ai)**
+
+---
+
+*Replace all TBD fields with confirmed details before printing or publishing.*

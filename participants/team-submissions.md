@@ -1,57 +1,30 @@
 # Team Submissions
 
-Post each team submission below using this template.
+**AI for Social Good Hackathon – SUST 2026**
 
 ---
 
-## Submission Template
+## How to Add Your Submission
 
-### Team Name
-`<Team Name>`
+After completing the official submission form, add your team entry to the table below in a pull request **or** ask an organizer to add it for you.
 
-### Team Members
-- Name 1 (Dept, Batch)
-- Name 2 (Dept, Batch)
-- Name 3 (Dept, Batch)
-
-### Project Title
-`<Project Name>`
-
-### GitHub Repository
-`<Repository URL>`
-
-### Problem Statement (max 150 words)
-`<Describe the social problem>`
-
-### Solution Summary (max 200 words)
-`<Describe your AI solution>`
-
-### z.ai Integration
-`<Which z.ai tool/API was used and how>`
-
-### Demo Link
-`<YouTube/Drive/Live link>`
-
-### Optional Notes
-`<Deployment link, future work, etc.>`
+**Fields to fill:**
+- **Team Name** — your team's name
+- **Members** — names and departments
+- **Project Title** — your project's name
+- **Repository** — public GitHub URL
+- **Demo** — video or live URL
+- **Track** — one of: Education / Healthcare / Inclusion / Environment / Campus Life
+- **Status** — leave blank (organizers fill: Received / Validated / Finalist / Winner)
 
 ---
 
-## Demo Guidelines (for teams)
-- Keep demo to **2–5 minutes**
-- Show the problem in one clear sentence
-- Show end-to-end workflow quickly
-- Highlight z.ai usage and value
-- Mention real-world impact and limits
+## Submissions
+
+| Team Name | Members | Project Title | Repository | Demo | Track | Status |
+|---|---|---|---|---|---|---|
+| *(example)* | Alice (CSE), Bob (EEE) | Smart Health Assistant | [Link](#) | [Video](#) | Healthcare | — |
 
 ---
 
-## Quick Judging Score Sheet (reference)
-| Criterion | Max Score |
-|---|---:|
-| Social Impact & Relevance | 25 |
-| AI Usage (z.ai) | 25 |
-| Technical Execution | 20 |
-| UX & Clarity | 15 |
-| Demo & Communication | 15 |
-| **Total** | **100** |
+*This table will be updated by organizers as submissions are validated.*

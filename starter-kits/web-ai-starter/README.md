@@ -8,4 +8,4 @@ A minimal static web starter for AI demo projects.
 - `app.js`
 
 ## Quick Start
-Open `index.html` in your browser, then connect `app.js` with your backend or z.ai API route.
+Open `index.html` in your browser, then connect `app.js` with your backend or Z.ai API route.
