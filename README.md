@@ -169,7 +169,7 @@ Full rubric: [`docs/JUDGING_RUBRIC.md`](./docs/JUDGING_RUBRIC.md)
 
 This repository includes a live hackathon website hosted free via **GitHub Pages**.
 link:
-https://rudra496.github.io/glm-hackathon-2026/#register
+https://rudra496.github.io/glm-hackathon-2026/
 
 ### Local preview
 
