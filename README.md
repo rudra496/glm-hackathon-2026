@@ -171,6 +171,28 @@ This repository includes a live hackathon website hosted free via **GitHub Pages
 link:
 https://rudra496.github.io/glm-hackathon-2026/#register
 
+### Local preview
+
+To preview the website locally, open `docs/index.html` directly in your browser, or run a simple static server from the `docs/` folder:
+
+```bash
+# Python 3
+cd docs && python -m http.server 8080
+# Then open http://localhost:8080
+```
+
+### SEO and accessibility features
+
+The website includes:
+- Full Open Graph and Twitter Card meta tags for social sharing
+- JSON-LD structured data (Event + WebSite schema) for search engines
+- `robots.txt` and `sitemap.xml` for crawler guidance
+- Semantic HTML landmarks (`header`, `nav`, `main`, `section`, `footer`)
+- Skip-to-main-content link for keyboard users
+- Active nav-link highlighting and mobile hamburger menu
+- `focus-visible` styles for keyboard navigation
+- `defer`-loaded scripts for improved page performance
+
 
 ---
 
