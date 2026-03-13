@@ -168,15 +168,9 @@ Full rubric: [`docs/JUDGING_RUBRIC.md`](./docs/JUDGING_RUBRIC.md)
 ## 🌐 Website (GitHub Pages)
 
 This repository includes a live hackathon website hosted free via **GitHub Pages**.
+link:
+https://rudra496.github.io/glm-hackathon-2026/#register
 
-### Enable GitHub Pages (free)
-1. Go to your repository **Settings → Pages**.
-2. Under **Source**, select **Deploy from a branch**.
-3. Choose branch: `main`, folder: `/docs`.
-4. Click **Save**.
-5. Your site will be live at `https://<your-username>.github.io/glm-hackathon-2026/`.
-
-The website files are in the [`docs/`](./docs/) folder.
 
 ---
 
